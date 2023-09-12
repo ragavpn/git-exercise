@@ -1,6 +1,6 @@
 line_1
 line_2
-line_3
+UPDATED LINE
 line_4
 line_5
 line_6
