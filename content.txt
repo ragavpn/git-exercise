@@ -11,3 +11,6 @@ line_10
 line_11
 line_12
 line_13
+line_new_1
+line_new_2
+line_new_3
